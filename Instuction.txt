@@ -1,1 +1,0 @@
-For the functioning of hm001.exe must download the External folder and copy the same place than exe file.
