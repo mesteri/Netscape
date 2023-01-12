@@ -1,1 +1,1 @@
-For the functioning of hm001.exe must download the External folder and copy the same place than exe file.
+First, download the External Folder then the exe file in the same folder (make sure both are in the same folder). 
